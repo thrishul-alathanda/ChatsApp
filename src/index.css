@@ -47,7 +47,7 @@
 /* Login Page */
 
 #login-page {
-  background-image: linear-gradient(#40a9ff, #096dd9);
+  background-image: linear-gradient(#000000,#79767a);
   position: absolute;
   top: 0px;
   bottom: 0px;
@@ -63,7 +63,7 @@
   padding-bottom: 66px;
   width: 420px;
   text-align: center;
-  background-color: white;
+  background-color: rgb(174, 0, 255);
   border-radius: 22px;
 }
 
